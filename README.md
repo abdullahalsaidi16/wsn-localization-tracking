@@ -79,7 +79,7 @@ python " main.py"
 ## Author
 
 [**Abdullah Alsaidi**](https://github.com/abdullahalsaidi16) — see also the
-[contributors](https://github.com/abdullahalsaidi16/wsn_localization_tracking/graphs/contributors).
+[contributors](https://github.com/abdullahalsaidi16/wsn-localization-tracking/graphs/contributors).
 
 ## License
 
